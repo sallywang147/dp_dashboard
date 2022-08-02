@@ -1,5 +1,8 @@
 numpy
+pydp
+python-dp
 pandas
+plotly
 folium
 ipywidgets
 matplotlib
