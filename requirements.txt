@@ -1,4 +1,5 @@
 numpy
+diffprivlib
 pydp
 python-dp
 pandas
