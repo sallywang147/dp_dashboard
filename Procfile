@@ -1,2 +1,2 @@
-web: voila --port=$PORT --no-browser dashboard.ipynb
-
+web: voila --port=$PORT --Voila.ip=0.0.0.0 --no-browser --template=material --
+enable_nbextensions=True dashboard.ipynb
